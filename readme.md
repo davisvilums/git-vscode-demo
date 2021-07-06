@@ -1,3 +1,5 @@
 # Learning Git with VScode
 
--- second commit.
+-- skipped first commit
+
+-- second commit
